@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+body{
+background: RGB(21,21,21,0.2)
+}
+.container{
+    margin: 20px auto;
+}
+.box{
+    background: white;
+    padding: 20px;
+}
+.blog-post-container img{
+    width: 100%;
+}

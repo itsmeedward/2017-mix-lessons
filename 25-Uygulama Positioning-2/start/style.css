@@ -1,0 +1,42 @@
+#container{
+	width: 1140px;
+	
+}
+#blog-post-container{
+	width: 75%;	
+	float: left;
+    
+}
+.blog-post{  position: relative;
+  
+}
+#other-posts{
+	width: 25%;	
+	float: left;
+    position: fixed;
+    top: 0px;
+    right: 37px;
+}
+.date{
+    position: absolute;
+    top: 0px;
+    right: 33px;
+}
+#author-box
+{
+	
+}
+ul{
+    display: block;
+    margin; 0px;
+   padding: 0px;
+}
+ul li{
+    list-style: none;
+    display: inline;
+   
+}
+ul li a{
+    text-decoration: none;
+    cursor: pointer;
+}
